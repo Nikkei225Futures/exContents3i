@@ -1,0 +1,9 @@
+<html>
+	<body>
+		<h1>
+			The curren time is
+			<!--#echo var="DATE_LOCAL"-->
+			now.
+		</h1>
+	</body>
+</html>
