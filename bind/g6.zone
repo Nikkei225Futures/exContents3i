@@ -1,0 +1,14 @@
+$TTL	100
+@	IN  SOA  server.g6.exp.info.kochi-tech.ac.jp.  postmaster.g6.exp.info.kochi-tech.ac.jp.  (
+	2020041701
+	100
+	100
+	100
+	100  )
+	IN	NS	server.g6.info.kochi-tech.ac.jp.
+server	IN	A	192.168.0.61
+www	IN	CNAME	server
+linux	IN	A	192.168.0.62
+win	IN	A	192.168.0.63
+mac	IN	A	192.168.0.64
+note	IN	A	192.168.0.65
