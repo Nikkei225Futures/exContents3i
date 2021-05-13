@@ -1,0 +1,166 @@
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 07:11:28 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: matumoto@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: matumoto@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 4EE341000E2
+	for <matumoto@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 07:10:09 +0000 (UTC)
+To: matumoto@g6.exp.info.kochi-tech.ac.jp
+From: exp@g6.exp.info.kochi-tech.ac.jp
+Subject: test
+Message-Id: <20210513071028.4EE341000E2@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 07:10:09 +0000 (UTC)
+X-IMAPbase: 1620889923 0000000003
+X-UID: 1                                        
+Status: O
+
+test-sentence
+
+From matumoto@g6.exp.info.kochi-tech.ac.jp  Thu May 13 07:47:37 2021
+Return-Path: <matumoto@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 262C5102101
+	for <simple-ml@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 07:46:20 +0000 (UTC)
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+From: matumoto@g6.exp.info.kochi-tech.ac.jp
+Subject: test of mailing list
+Message-Id: <20210513074635.262C5102101@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 07:46:20 +0000 (UTC)
+X-UID: 2                                                  
+Status: O
+
+testing mailing list
+
+From matumoto@g6.exp.info.kochi-tech.ac.jp  Thu May 13 07:50:24 2021
+Return-Path: <matumoto@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 77941102101
+	for <simple-ml@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 07:49:00 +0000 (UTC)
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+From: matumoto@g6.exp.info.kochi-tech.ac.jp
+Subject: test of mailing-list-2
+Message-Id: <20210513074916.77941102101@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 07:49:00 +0000 (UTC)
+X-UID: 3                                                  
+Status: O
+
+testing mailing-list-2
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:23:20 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 1DE2F101E78;
+	Thu, 13 May 2021 08:22:00 +0000 (UTC)
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+From: exp@g6.exp.info.kochi-tech.ac.jp
+Subject: subject
+Message-Id: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 08:22:00 +0000 (UTC)
+
+test-sentence
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:56:38 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from [192.168.0.62] (unknown [192.168.0.62])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with ESMTPS id 009451020FD
+	for <simple-ml@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 08:56:37 +0000 (UTC)
+Subject: Re: subject
+From: tanimoto <exp@g6.exp.info.kochi-tech.ac.jp>
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+References: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Message-ID: <81755565-201a-39ac-a050-85c656e17e2e@g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 17:56:37 +0900
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101
+ Thunderbird/78.8.1
+MIME-Version: 1.0
+In-Reply-To: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+eeeeeee
+
+On 2021/05/13 17:22, exp@g6.exp.info.kochi-tech.ac.jp wrote:
+> test-sentence
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:58:24 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: matumoto@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: matumoto@g6.exp.info.kochi-tech.ac.jp
+Received: from expnoMacBook-Air.local (unknown [192.168.0.64])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with ESMTP id 049351020FD
+	for <matumoto@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 08:58:23 +0000 (UTC)
+To: matumoto@g6.exp.info.kochi-tech.ac.jp
+From: exp <exp@g6.exp.info.kochi-tech.ac.jp>
+Message-ID: <f3244e61-ffae-9332-8ab7-79e2c438a883@g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 17:58:23 +0900
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.0)
+ Gecko/20100101 Thunderbird/78.10.1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+test
+
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:58:43 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from [192.168.0.63] (unknown [192.168.0.63])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with ESMTPS id 847941020FD
+	for <simple-ml@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 08:58:43 +0000 (UTC)
+Subject: Re: subject
+From: server <exp@g6.exp.info.kochi-tech.ac.jp>
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+References: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Message-ID: <2a60f219-9c31-d0dd-a21f-1cc8be0e384b@g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 17:58:44 +0900
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.10.1
+MIME-Version: 1.0
+In-Reply-To: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+test
+
+On 2021/05/13 17:22, exp@g6.exp.info.kochi-tech.ac.jp wrote:
+> test-sentence
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:59:06 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: matumoto@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: matumoto@g6.exp.info.kochi-tech.ac.jp
+Received: from [192.168.0.63] (unknown [192.168.0.63])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with ESMTPS id 5D3871020FD
+	for <matumoto@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 08:59:06 +0000 (UTC)
+Subject: Re: test-mail
+To: matumoto@g6.exp.info.kochi-tech.ac.jp
+References: <20210513074035.3F405102101@server.g6.exp.info.kochi-tech.ac.jp>
+From: server <exp@g6.exp.info.kochi-tech.ac.jp>
+Message-ID: <9b30bdcb-cbea-902f-9325-f3482a3bef41@g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 17:59:07 +0900
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.10.1
+MIME-Version: 1.0
+In-Reply-To: <20210513074035.3F405102101@server.g6.exp.info.kochi-tech.ac.jp>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+test
+
+On 2021/05/13 16:39, matumoto@g6.exp.info.kochi-tech.ac.jp wrote:
+> test-subject
+
