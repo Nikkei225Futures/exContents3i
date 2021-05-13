@@ -12,3 +12,6 @@ linux	IN	A	192.168.0.62
 win	IN	A	192.168.0.63
 mac	IN	A	192.168.0.64
 note	IN	A	192.168.0.65
+g6.exp.info.kochi-tech.ac.jp.	IN	MX 10	server.g6.exp.info.kochi-tech.ac.jp.
+smtp	IN	CNAME	server
+pop	IN	CNAME	server

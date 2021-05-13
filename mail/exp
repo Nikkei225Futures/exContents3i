@@ -1,0 +1,260 @@
+From MAILER-DAEMON  Thu May 13 07:01:10 2021
+Return-Path: <>
+X-Original-To: exp@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: exp@g6.exp.info.kochi-tech.ac.jp
+Received: by server.g6.exp.info.kochi-tech.ac.jp (Postfix)
+	id 829DA102102; Thu, 13 May 2021 07:01:10 +0000 (UTC)
+Date: Thu, 13 May 2021 07:01:10 +0000 (UTC)
+From: MAILER-DAEMON@g6.exp.info.kochi-tech.ac.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: exp@g6.exp.info.kochi-tech.ac.jp
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A7ACB1020FF.1620889270/server.g6.exp.info.kochi-tech.ac.jp"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20210513070110.829DA102102@server.g6.exp.info.kochi-tech.ac.jp>
+X-IMAPbase: 1620889047 0000000006
+X-UID: 1                                                 
+Status: RO
+Content-Length: 2130
+
+This is a MIME-encapsulated message.
+
+--A7ACB1020FF.1620889270/server.g6.exp.info.kochi-tech.ac.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host server.g6.exp.info.kochi-tech.ac.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<root@g6.exp.info.kochi-tech.ac.jp> (expanded from
+    <postmaster@g6.exp.info.kochi-tech.ac.jp>): cannot update mailbox
+    /var/mail/root for user root. cannot open file: Is a directory
+
+--A7ACB1020FF.1620889270/server.g6.exp.info.kochi-tech.ac.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; server.g6.exp.info.kochi-tech.ac.jp
+X-Postfix-Queue-ID: A7ACB1020FF
+X-Postfix-Sender: rfc822; exp@g6.exp.info.kochi-tech.ac.jp
+Arrival-Date: Thu, 13 May 2021 07:00:15 +0000 (UTC)
+
+Final-Recipient: rfc822; root@g6.exp.info.kochi-tech.ac.jp
+Original-Recipient: rfc822;postmaster@g6.exp.info.kochi-tech.ac.jp
+Action: failed
+Status: 5.2.0
+Diagnostic-Code: X-Postfix; cannot update mailbox /var/mail/root for user root.
+    cannot open file: Is a directory
+
+--A7ACB1020FF.1620889270/server.g6.exp.info.kochi-tech.ac.jp
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id A7ACB1020FF
+	for <postmaster@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 07:00:15 +0000 (UTC)
+To: postmaster@g6.exp.info.kochi-tech.ac.jp
+From: exp@g6.exp.info.kochi-tech.ac.jp
+Message-Id: <20210513070030.A7ACB1020FF@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 07:00:15 +0000 (UTC)
+
+Honbun
+
+--A7ACB1020FF.1620889270/server.g6.exp.info.kochi-tech.ac.jp--
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 07:04:53 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: exp@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: exp@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 9A0691020FF
+	for <exp@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 07:04:03 +0000 (UTC)
+To: exp@g6.exp.info.kochi-tech.ac.jp
+From: exp@g6.exp.info.kochi-tech.ac.jp
+Message-Id: <20210513070416.9A0691020FF@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 07:04:03 +0000 (UTC)
+X-UID: 2                                                 
+Status: RO
+
+Honbun
+
+From matumoto@g6.exp.info.kochi-tech.ac.jp  Thu May 13 07:41:25 2021
+Return-Path: <matumoto@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: exp@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: exp@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 3F405102101
+	for <exp@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 07:39:51 +0000 (UTC)
+To: exp@g6.exp.info.kochi-tech.ac.jp
+From: matumoto@g6.exp.info.kochi-tech.ac.jp
+Subject: test-mail
+Message-Id: <20210513074035.3F405102101@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 07:39:51 +0000 (UTC)
+X-UID: 3                                                 
+Status: RO
+
+test-subject
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:23:20 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 1DE2F101E78;
+	Thu, 13 May 2021 08:22:00 +0000 (UTC)
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+From: exp@g6.exp.info.kochi-tech.ac.jp
+Subject: subject
+Message-Id: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 08:22:00 +0000 (UTC)
+X-UID: 4                                                  
+Status: RO
+
+test-sentence
+
+From MAILER-DAEMON  Thu May 13 08:23:21 2021
+Return-Path: <>
+X-Original-To: exp@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: exp@g6.exp.info.kochi-tech.ac.jp
+Received: by server.g6.exp.info.kochi-tech.ac.jp (Postfix)
+	id F2829102103; Thu, 13 May 2021 08:23:20 +0000 (UTC)
+Date: Thu, 13 May 2021 08:23:20 +0000 (UTC)
+From: MAILER-DAEMON@g6.exp.info.kochi-tech.ac.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: exp@g6.exp.info.kochi-tech.ac.jp
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1DE2F101E78.1620894200/server.g6.exp.info.kochi-tech.ac.jp"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20210513082320.F2829102103@server.g6.exp.info.kochi-tech.ac.jp>
+X-UID: 5                                                  
+Status: RO
+Content-Length: 2116
+
+This is a MIME-encapsulated message.
+
+--1DE2F101E78.1620894200/server.g6.exp.info.kochi-tech.ac.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host server.g6.exp.info.kochi-tech.ac.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<simple-ml@g6.exp.info.kochi-tech.a.cjp>: Host or domain name not found. Name
+    service error for name=g6.exp.info.kochi-tech.a.cjp type=AAAA: Host not
+    found
+
+--1DE2F101E78.1620894200/server.g6.exp.info.kochi-tech.ac.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; server.g6.exp.info.kochi-tech.ac.jp
+X-Postfix-Queue-ID: 1DE2F101E78
+X-Postfix-Sender: rfc822; exp@g6.exp.info.kochi-tech.ac.jp
+Arrival-Date: Thu, 13 May 2021 08:22:00 +0000 (UTC)
+
+Final-Recipient: rfc822; simple-ml@g6.exp.info.kochi-tech.a.cjp
+Original-Recipient: rfc822;simple-ml@g6.exp.info.kochi-tech.a.cjp
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=g6.exp.info.kochi-tech.a.cjp type=AAAA: Host not found
+
+--1DE2F101E78.1620894200/server.g6.exp.info.kochi-tech.ac.jp
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+Received: from server.g6.exp.info.kochi-tech.ac.jp (localhost [127.0.0.1])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with SMTP id 1DE2F101E78;
+	Thu, 13 May 2021 08:22:00 +0000 (UTC)
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+From: exp@g6.exp.info.kochi-tech.ac.jp
+Subject: subject
+Message-Id: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 08:22:00 +0000 (UTC)
+
+test-sentence
+
+--1DE2F101E78.1620894200/server.g6.exp.info.kochi-tech.ac.jp--
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:56:38 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from [192.168.0.62] (unknown [192.168.0.62])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with ESMTPS id 009451020FD
+	for <simple-ml@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 08:56:37 +0000 (UTC)
+Subject: Re: subject
+From: tanimoto <exp@g6.exp.info.kochi-tech.ac.jp>
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+References: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Message-ID: <81755565-201a-39ac-a050-85c656e17e2e@g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 17:56:37 +0900
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101
+ Thunderbird/78.8.1
+MIME-Version: 1.0
+In-Reply-To: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+X-UID: 6                                                  
+Status: RO
+
+eeeeeee
+
+On 2021/05/13 17:22, exp@g6.exp.info.kochi-tech.ac.jp wrote:
+> test-sentence
+
+From exp@g6.exp.info.kochi-tech.ac.jp  Thu May 13 08:58:43 2021
+Return-Path: <exp@g6.exp.info.kochi-tech.ac.jp>
+X-Original-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Delivered-To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+Received: from [192.168.0.63] (unknown [192.168.0.63])
+	by server.g6.exp.info.kochi-tech.ac.jp (Postfix) with ESMTPS id 847941020FD
+	for <simple-ml@g6.exp.info.kochi-tech.ac.jp>; Thu, 13 May 2021 08:58:43 +0000 (UTC)
+Subject: Re: subject
+From: server <exp@g6.exp.info.kochi-tech.ac.jp>
+To: simple-ml@g6.exp.info.kochi-tech.ac.jp
+References: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Message-ID: <2a60f219-9c31-d0dd-a21f-1cc8be0e384b@g6.exp.info.kochi-tech.ac.jp>
+Date: Thu, 13 May 2021 17:58:44 +0900
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+ Thunderbird/78.10.1
+MIME-Version: 1.0
+In-Reply-To: <20210513082216.1DE2F101E78@server.g6.exp.info.kochi-tech.ac.jp>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+test
+
+On 2021/05/13 17:22, exp@g6.exp.info.kochi-tech.ac.jp wrote:
+> test-sentence
+
