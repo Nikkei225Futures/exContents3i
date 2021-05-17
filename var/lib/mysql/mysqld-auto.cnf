@@ -1,0 +1,1 @@
+{ "Version" : 1 , "mysql_server" : { "local_infile" : { "Value" : "ON" , "Metadata" : { "Timestamp" : 1621234127366267 , "User" : "root" , "Host" : "localhost" } } } }
