@@ -1,8 +1,21 @@
 Shift_JIS -> UTF-8
-nkf --ic=Shift_JIS --oc=UTF-8 inputFile.csv > outputFile.csv
+syntax is like this.
+# nkf --ic=Shift_JIS --oc=UTF-8 inputFile.csv > outputFile.csv
+in this class, execute command wchich is writen under this line.
 
+# nkf --ic=Shift_JIS --oc=UTF-8 uriage.csv > uriageUTF8LF.csv
+# nkf --ic=Shift_JIS --oc=UTF-8 bunrui.csv > bunruiUTF8LF.csv
+# nkf --ic=Shift_JIS --oc=UTF-8 tanka.csv > tankaUTF8LF.csv
+
+//
 change line break(unix(LF))
+syntax is like this.
 # nkf -Lu -d inputFile.csv > outputFile.csv
+in this class, execute command which is written in under this line.
+
+# nkf -Lu -d uriageUTF8LF.csv > uriageUTF8LF.csv
+# nkf -Lu -d bunruiUTF8LF.csv > bunruiUTF8LF.csv
+# nkf -Lu -d tankaUTF8LF.csv > tankaUTF8LF.csv
 
 confirm file status due to command like under this line.
 # nkf --guess confirmFile.csv
@@ -10,3 +23,4 @@ confirm file status due to command like under this line.
 if response of nkf --guess command is like under this line, its correct.
 UTF-8 (LF)
 else, incorrect.
+
