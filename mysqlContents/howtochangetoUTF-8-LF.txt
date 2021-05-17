@@ -1,0 +1,12 @@
+Shift_JIS -> UTF-8
+nkf --ic=Shift_JIS --oc=UTF-8 inputFile.csv > outputFile.csv
+
+change line break(unix(LF))
+# nkf -Lu -d inputFile.csv > outputFile.csv
+
+confirm file status due to command like under this line.
+# nkf --guess confirmFile.csv
+
+if response of nkf --guess command is like under this line, its correct.
+UTF-8 (LF)
+else, incorrect.
