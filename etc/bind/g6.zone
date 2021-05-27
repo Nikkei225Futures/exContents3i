@@ -6,12 +6,12 @@ $TTL	100
 	100
 	100  )
 	IN	NS	server.g6.info.kochi-tech.ac.jp.
-server	IN	A	192.168.0.61
+server	IN	A	172.21.16.2
 www	IN	CNAME	server
-linux	IN	A	192.168.0.62
-win	IN	A	192.168.0.63
-mac	IN	A	192.168.0.64
-note	IN	A	192.168.0.65
+linux	IN	A	172.21.16.3
+win	IN	A	172.21.16.4
+mac	IN	A	172.21.16.5
+note	IN	A	172.21.16.6
 g6.exp.info.kochi-tech.ac.jp.	IN	MX 10	server.g6.exp.info.kochi-tech.ac.jp.
 smtp	IN	CNAME	server
 pop	IN	CNAME	server

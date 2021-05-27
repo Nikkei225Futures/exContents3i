@@ -1,0 +1,9 @@
+#telnet 172.21.16.1
+router6> enable
+router6# configure terminal
+router6(config)# ip route 172.21.11.0 255.255.255.0 192.168.0.11
+..
+...
+...
+router6(config)# ip route 172.21.22.0 255.255.255.0 192.168.0.22
+router6(config)# ip route 0.0.0.0 0.0.0.0 192.168.0.9
